@@ -31,9 +31,11 @@ Book your group rate for Eaton Corp Room Block
 
  
 
-Parking: For those driving, there is parking available at the hotel and at NREL  
+### Parking
+For those driving, there is parking available at the hotel and at NREL  
 
-Shuttle:  The hotel is in walking distance of NREL, there is also a shuttle between NREL and Marriott 
+### Shuttle
+The hotel is in walking distance of NREL, there is also a shuttle between NREL and Marriott 
 
  
 
