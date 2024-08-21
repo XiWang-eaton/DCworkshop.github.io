@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Workshop on Future of DC Distribution Systems for Stationary and Mobile Applications!
+# Workshop on Future of DC Distribution Systems for Stationary and Mobile Applications
 
 {% include figure.html img="nrel.jpg" alt="nrel ariel view" caption="NREL Campus at Golden" width="75%" %}
 
