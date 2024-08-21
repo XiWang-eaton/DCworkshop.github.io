@@ -1,7 +1,6 @@
 ---
 title: Workshop Agenda
 nav: Agenda
-topics: Agenda #; Optional Software
 ---
 
 # Workshop Documents
