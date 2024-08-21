@@ -1,6 +1,6 @@
 ---
 title: Hotel & Venue
-nav: Hotel & Venue
+nav: Venue
 
 ---
 ## Workshop Location
@@ -13,7 +13,7 @@ The workshop will be held at National Renewable Energy Labortory in Golden, CO.
 
 ## Summit Hotel
 
-<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20638.35034974265!2d-105.16133091516596!3d39.7416919022771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b845ca799f307%3A0xddf961a2492b636f!2sDenver%20Marriott%20West!5e0!3m2!1sen!2sus!4v1724278564678!5m2!1sen!2sus" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20638.35034974265!2d-105.16133091516596!3d39.7416919022771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b845ca799f307%3A0xddf961a2492b636f!2sDenver%20Marriott%20West!5e0!3m2!1sen!2sus!4v1724278564678!5m2!1sen!2sus" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 Denver Marriott West  
 1717 Denver West Marriott Blvd  
