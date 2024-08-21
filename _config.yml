@@ -15,7 +15,7 @@ title: DC Distribution Workshop
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+# title-icon: code-slash
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "This site contains information related to the 2024 DC Distribution Workshop hosted by Eaton Coporation at Golden, Colorado"
