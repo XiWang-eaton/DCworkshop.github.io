@@ -3,10 +3,8 @@ title: Home
 layout: page
 ---
 
-# Workshop on Future of DC Distribution Systems for Stationary and Mobile Applications
+## Workshop on Future of DC Distribution Systems for Stationary and Mobile Applications
 ### **October 2<sup>nd</sup> - 4<sup>th</sup>, 2024**.
-
-
 
 {% include figure.html img="eaton.png" alt="eaton logo" width="50%" %}
 
