@@ -5,7 +5,7 @@ layout: page
 
 # Welcome to the Workshop on Future of DC Distribution Systems for Stationary and Mobile Applications!
 
-{% include figure.html img="nrel.jpg" alt="nrel ariel view" caption="NREL Campus at Golden" width="75%" %}
+<!-- {% include figure.html img="nrel.jpg" alt="nrel ariel view" caption="NREL Campus at Golden" width="75%" %} -->
 
 The workshop is part of a leadership effort focused on understanding and driving DC distribution and protection requirements of emerging DC distribution in stationary and mobile applications. The workshop will focus on exploration of technology, application, and demarcation of potential future business and product line opportunities. During this workshop we will look at how DC distribution will fit into EV fleets, utilities, Inside the electrical vehicles, and aerospace and see how the future trends can drive research and product development.   
 
