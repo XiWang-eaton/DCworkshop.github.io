@@ -1,31 +1,10 @@
 ---
-title: Workshop Prep
-nav: Prep
-topics: GitHub; Optional Software
+title: Workshop Agenda
+nav: Agenda
+topics: Agenda #; Optional Software
 ---
 
-To create your own materials using `workshop-template-b`, please set up a free [GitHub account](https://github.com/join) if you do not have one already.
-
-Basic familiarity with the GitHub web interface will be helpful.
-For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/), or the extensive [GitHub Learning Lab](https://lab.github.com/).
-
-This template works great using only GitHub's web interface for editing--you don't have to install anything!
-However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
-
-{% capture text %}
-1. Have a [GitHub](https://github.com) account.
-2. *Very Optional:* have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
-{% endcapture %}
-{% include card.html text=text header="Setup Overview" %}
-
-> *Tip:* for easier editing of your project in your browser, you can click `.` on any GitHub repository to [open the web editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) (which is a version of [Visual Studio Code](https://code.visualstudio.com/) editor)!
->
-> *Tip:* you could also use this template on GitLab or other hosting service. GitHub is handy for easily creating and sharing projects, however, it is not a dependency!
-
--------------
-
-## Local Jekyll Setup [very optional]
-
+## Day 1: Wednesday October 2nd
 If you want to develop and preview your website project on your local computer (or deploy it some where other than GitHub Pages), you will need to install Git version control and the static site generator [Jekyll](https://jekyllrb.com/).
 
 ### Install Git
