@@ -23,8 +23,9 @@ Background: As part of Eaton’s goal of ongoing growth, there is a need for con
   
 
 You have been selected to join us at this important event.  As participants are identified over the coming weeks, additional invitations will be sent by the organizing team.  
+
 {% include toc.html %}
 
 ------
 
-{% include template/credits.html %}
+<!-- {% include template/credits.html %} -->
