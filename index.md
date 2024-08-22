@@ -17,6 +17,7 @@ Background: As part of Eaton's ongoing growth, continuous innovation is crucial.
 
 You have been selected to join us at this important event. As participants are identified over the coming weeks, additional invitations will be sent by the organizing team.
 
+{% include figure.html img="eaton.png" alt="eaton logo" width="50%" %}
 
 {% include toc.html %}
 
