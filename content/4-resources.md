@@ -15,11 +15,11 @@ Please note any special dietary requirements in the registration form to this ev
 For any further inquiries, please contact:
 
 ##### Ahmed Mohamed
-Mobile: +1 (303) 324-6711
+Mobile: +1 (303) 324-6711  
 [AhmedAMohamed@eaton.com](AhmedAMohamed@eaton.com)
 
 ##### Vijay Bhavaraju
-Mobile: +1 (414) 378-1785
+Mobile: +1 (414) 378-1785  
 [vijaybhavaraju@eaton.com](vijaybhavaraju@eaton.com)
 
 ##### Sheroze Liaquat
