@@ -5,13 +5,13 @@ nav: Resources
 
 
 ### Dress Attire 
-Business casual.
+The dress attire for this workshop is Business casual.
 
 ### Dietary Requirements
-Please note any dietary requirements in the registration form to this event.
+Please indicate any dietary requirements in the registration form to this event.
 
 ### Accessibility Requests
-Please note any acaccessibility requests in the registration form to this event.
+Please indicate any acaccessibility requests in the registration form to this event.
 
 ### Local Contact
 
