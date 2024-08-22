@@ -36,3 +36,12 @@ For those driving, there is parking available at the hotel and at NREL.
 
 #### Shuttle
 The hotel is in walking distance of NREL, and there is also a shuttle between NREL and Marriott.
+
+<iframe
+  src="https://maps.app.goo.gl/JCn8PnFXuW3jhqYa7"
+  width="600"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+></iframe>
