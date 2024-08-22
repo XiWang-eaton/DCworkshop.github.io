@@ -39,8 +39,8 @@ The hotel is in walking distance of NREL, and there is also a shuttle between NR
 
 <iframe
   src="https://maps.app.goo.gl/JCn8PnFXuW3jhqYa7"
-  width="600"
-  height="450"
+  width="800"
+  height="400"
   style="border:0;"
   allowfullscreen=""
   loading="lazy"
