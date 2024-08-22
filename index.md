@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-{% include figure.html img="eaton.png" alt="eaton logo" width="50%" %}
+{% include figure.html img="nrel-gate.jpg" alt="nrel" width="50%" %}
 
 Welcome to the Workshop on the Future of DC Distribution Systems for Stationary and Mobile Applications. This leadership effort aims to understand and drive the DC distribution and protection requirements of emerging DC distribution in various applications. Join us as we explore the technology, applications, and potential business opportunities in this field.
 
