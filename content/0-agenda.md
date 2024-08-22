@@ -21,6 +21,6 @@ Day 2 will focus on defining the opportunity spaces for DC distribution and DC p
 Information and detailed descriptions for each specific panel can be found [here](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf).
 <br>
 
-### Download Agenda PDF
+### Download Schedule PDF
 [Agenda for Eaton Participants](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf)  
 [Agenda for Non-Eaton Participants](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf)
