@@ -22,4 +22,4 @@ You have been selected to join us at this important event. As participants are i
 
 ------
 
-<!-- {% include template/credits.html %} -->
+{% include template/credits.html %}
