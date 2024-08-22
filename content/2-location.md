@@ -12,7 +12,6 @@ The workshop will be held at National Renewable Energy Labortory in Golden, CO.
 16000 Denver W Pkwy  
 Golden, CO 80401
 
-<br>
 
 
 

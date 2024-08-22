@@ -11,7 +11,7 @@ On Day 1, we will work alongside potential customers and collaborators to gain i
 
 ### Day 2: NREL Flatiron Campus Tour
 
-Day 2 will focus on defining the opportunity spaces for DC distribution and DC protection devices, such as solid-state and hybrid circuit breakers and contactors. We will explore the potential costs and benefits, answer the question "Why Eaton," and identify areas of alignment. By the end of the day, we aim to have a clear target space for increased research and product development efforts.
+Day 2 of the workshop will be a morning tour to the Flatiron campus of NREL.
 <br>
 
 <object data="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf" type="application/pdf" width="100%" height="600px">
