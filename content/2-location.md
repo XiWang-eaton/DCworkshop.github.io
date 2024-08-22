@@ -29,7 +29,7 @@ Eaton Corp Room Block
 Last Day to Book: TBD  
 Denver Marriott West - 135 USD per night  
 
-[Book your group rate for Eaton Corp Room Block](https://www.marriott.com/reservation/rateListMenu.mi?dclid=CPbRmPmCh4gDFaDNGAId6XIBtQ)
+[Book your group rate for Eaton Corp Room Block](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679329669852&key=GRP&app=resvlink)
 
 #### Parking
 For those driving, there is parking available at the hotel and at NREL.
