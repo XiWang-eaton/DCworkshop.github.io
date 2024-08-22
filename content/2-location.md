@@ -31,7 +31,7 @@ You are responsible for making your own hotel reservations.
 A block of rooms will be established for Workshop participants. These rooms are available on a first-come, first-served basis. To secure your space, we highly recommend reserving your room as soon as possible.  
 
 Eaton Corp Room Block  
-<!-- Last Day to Book: TBD   -->
+Last Day to Book: **September 11<sup>th</sup>, 2024**  
 Denver Marriott West - 178 USD per night  
   
 Please check back on the website for a link to book the group rates.
