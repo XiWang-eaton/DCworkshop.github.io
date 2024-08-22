@@ -6,7 +6,6 @@ layout: page
 ## Workshop on Future of DC Distribution Systems for Stationary and Mobile Applications
 ### **October 2<sup>nd</sup> - 4<sup>th</sup>, 2024**
 
-<br>
 
 {% include figure.html img="nrel-gate.jpg" alt="nrel" width="100%" %}
 
