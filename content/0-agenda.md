@@ -16,11 +16,8 @@ On Day 1, we will work alongside potential customers and collaborators to gain i
 ## Day 2: Defining Opportunity Spaces
 
 Day 2 will focus on defining the opportunity spaces for DC distribution and DC protection devices, such as solid-state and hybrid circuit breakers and contactors. We will explore the potential costs and benefits, answer the question "Why Eaton," and identify areas of alignment. By the end of the day, we aim to have a clear target space for increased research and product development efforts.
-
 <br>
-
 Information and detailed descriptions for each specific panel can be found [here](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf).
-
 <br>
 
 ## Download Agenda PDF

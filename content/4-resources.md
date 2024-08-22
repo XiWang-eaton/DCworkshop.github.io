@@ -7,8 +7,11 @@ nav: Resources
 ## Dress Attire 
 Business casual.
 
-## Special Dietary Requirements
-Please note any special dietary requirements in the registration form to this event.
+## Dietary Requirements
+Please note any dietary requirements in the registration form to this event.
+
+## Accessibility Requests
+Please note any acaccessibility requests in the registration form to this event.
 
 ## Local Contact
 
