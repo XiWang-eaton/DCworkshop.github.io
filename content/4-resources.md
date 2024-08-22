@@ -13,15 +13,18 @@ Please indicate any dietary requirements in the registration form to this event.
 ### Accessibility Requests
 Please indicate any acaccessibility requests in the registration form to this event.
 
-### Local Contact
+### Local Contacts
 
-For any further inquiries, please contact:  
+Please contact:  
 
 ##### Ahmed Mohamed
-AhmedAMohamed@eaton.com
-
-##### Vijay Bhavaraju
-vijaybhavaraju@eaton.com
+AhmedAMohamed@eaton.com  
+for further technical inquiries.
 
 ##### Sheroze Liaquat
-sherozeliaquat@eaton.com
+sherozeliaquat@eaton.com  
+for further logistic inquiries.
+
+##### Xi Wang
+xiwang2@eaton.com  
+for IT related inquiries.
