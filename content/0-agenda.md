@@ -22,5 +22,5 @@ Information and detailed descriptions for each specific panel can be found [here
 <br>
 
 ### Download Schedule PDF
-[Agenda for Eaton Participants](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf)  
-[Agenda for Non-Eaton Participants](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf)
+[Schedule for Eaton Participants](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf)  
+[Schedule for Non-Eaton Participants](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf)
