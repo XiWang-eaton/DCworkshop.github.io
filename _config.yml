@@ -22,7 +22,7 @@ description: "This site contains information related to the 2024 DC Distribution
 # keywords: "workshops, websites, gh-pages, jekyll"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
-featured-image: "/images/nrel.jpg"
+featured-image: "/images/eaton.png"
 # add search box to footer? true/false
 search: true
 
