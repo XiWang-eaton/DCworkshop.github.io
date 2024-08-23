@@ -1,5 +1,5 @@
 ---
-title: Speaker Introductions
+title: Speakers
 nav: Speakers
 ---
 
