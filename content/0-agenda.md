@@ -14,8 +14,12 @@ On Day 1, we will work alongside potential customers and collaborators to gain i
 Day 2 of the workshop will be a morning tour to the Flatiron campus of NREL.
 <br>
 
-<object data="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-noneaton.pdf" type="application/pdf" width="100%" height="600px">
+<!-- <object data="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-noneaton.pdf" type="application/pdf" width="100%" height="600px">
     <p>Your browser does not support PDFs. <a href="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-noneaton.pdf">Download the PDF</a>.</p>
+</object> -->
+
+<object data="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/day1panel.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. <a href="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/day1panel.pdf">Download the PDF</a>.</p>
 </object>
 
 
@@ -23,4 +27,4 @@ Day 2 of the workshop will be a morning tour to the Flatiron campus of NREL.
 <br> -->
 
 ### Download Agenda PDF
-[Workshop Agenda](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-noneaton.pdf)  
+[Workshop Agenda](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/day1panel.pdf)  
