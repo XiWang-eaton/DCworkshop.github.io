@@ -7,11 +7,12 @@ During the workshop, we will delve into how DC distribution fits into EV fleets,
 
 ### Day 1: Understanding the Market
 
-On Day 1, we will work alongside potential customers and collaborators to gain insights into current research, market trends, and barriers to expansion. This non-confidential day will feature multiple experts and guest speakers, fostering improved relationships with industry collaborators and potential partners. We will also acknowledge the importance of DOE, DOD, and the national labs.
+On Day 1, we will work alongside customers and collaborators to gain insights into current research, market trends, and barriers to high-power DC systems. This non-confidential day will feature multiple panels with experts and guest speakers, fostering improved relationships with industry collaborators and partners. We will also acknowledge the importance of DOE, DOD, and the national labs.
 
-### Day 2: NREL Flatiron Campus Tour
+We will also focus on DC protection. We will address state-of-the-art in solid state and hybrid breakers/contactors and explore the potential benefits of these technologies in both stationary and mobile applications.
 
-Day 2 of the workshop will be a morning tour to the Flatiron campus of NREL.
+### Day 2: Travel to the NREL Flatiron campus for a short tour
+
 <br>
 
 <object data="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-noneaton.pdf" type="application/pdf" width="100%" height="600px">
