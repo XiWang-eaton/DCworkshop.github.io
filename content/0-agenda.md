@@ -13,7 +13,6 @@ We will also focus on DC protection. We will address state-of-the-art in solid s
 
 ### Day 2: Travel to the NREL Flatiron campus for a short tour
 
-<br>
 
 <object data="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-noneaton.pdf" type="application/pdf" width="100%" height="600px">
     <p>Your browser does not support PDFs. <a href="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-noneaton.pdf">Download the PDF</a>.</p>
