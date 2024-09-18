@@ -7,7 +7,7 @@ layout: page
 ### **October 2<sup>nd</sup> - 3<sup>rd</sup>, 2024**
 
 
-{% include figure.html img="nrel-gate.jpg" alt="nrel" width="100%" %}
+{% include figure.html img="noneaton-title.jpg" alt="title" width="100%" %}
 
 Welcome to the Workshop on the Future of DC Distribution Systems for Stationary and Mobile Applications. This joint NREL-Eaton effort aims to understand and drive the DC distribution and protection requirements of emerging high-power DC distribution in various applications. Join us as we explore the technologies, applications, and potential business opportunities in this field.
 
