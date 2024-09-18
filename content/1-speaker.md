@@ -15,7 +15,7 @@ nav: Speakers
 
 <h3 style="text-align: center;">Victor Atlasman</h3>
 
-{% include figure.html img="victora.png" alt="headshot" width="50%" %}
+{% include figure.html img="vicotra.png" alt="headshot" width="50%" %}
 
 <p style="text-align: center;">Victor Atlasman, Director of Engineering and Product Development at WattEV/Charge America, leads innovative initiatives in electric vehicle charging and energy solutions. With over a decade of experience in the EV sector, Victor has been instrumental in the design and prototyping of Megawatt Charging systems, achieving the world’s first demonstration of this technology. His work focuses on advancing sustainable infrastructure by strengthening supply chains and integrating cutting-edge technologies. Victor’s leadership and technical expertise are key to driving the transition to an all-electric future, aligning with the goals of the EV market gap. He holds a Bachelor of Science in Electrical Engineering from Arizona State University and is actively engaged in industry standardization efforts.</p>
 
