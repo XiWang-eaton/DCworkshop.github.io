@@ -3,7 +3,17 @@ title: Speakers
 nav: Speakers
 ---
 
+<h3 style="text-align: center;">Adel Nasiri</h3>
 
+{% include figure.html img="adel.jpg" alt="headshot" width="50%" %}
+
+<p style="text-align: center;"> <b>Adel Nasiri, Ph.D., Fellow IEEE</b>, is an expert in high power electronic development, grid resiliency, renewable energy, and energy storage. He has over 25 years of experience in academia and industry.  <br>
+<br>
+He is presently a Thomas Gregory Endowed Professor in the Electrical Engineering Department at the University of South Carolina. His research interests are high power converters, grid resiliency, energy storage, and microgrids. Previously, he worked at the University of Wisconsin-Milwaukee (UWM) from 2005 to 2021 and served in various roles including founding and Interim Executive Director, Connected Systems Institute (CSI) and Director, Center for Sustainable Electrical Energy, and the site director for the NSF center on Grid-connected Advanced Power Electronic Systems (GRAPES). He has published numerous technical journal and conference papers and co-authored two books and several book chapters on related topics. He also holds nine patent disclosures.  <br>
+<br>
+Dr. Nasiri is the past chair of IEEE Industry Applications Society (IAS) Committee on renewable and sustainable energy conversion. He is also an Editor of Power Components and Systems, and Associate Editor of the International Journal of Power Electronics and was an Editor of IEEE Transactions on Smart Grid (2013-2019) and paper review chair for IAS (2018-2019). He was the general Chair of 2012 IEEE Symposium on Sensorless Electric Drives, 2014 International Conference on Renewable Energy Research and Applications (ICRERA 2014), and 2014 IEEE Power Electronics and Machines for Wind and Water Applications (PEMWA 2014).</p>
+
+<br>
 
 <h3 style="text-align: center;">Mark Van Wingerden</h3>
 
