@@ -21,7 +21,7 @@ nav: Speakers
 
 <br>
 
-<h3 style="text-align: center;">Victor Shao</h3>
+<h3 style="text-align: center;">Vic Shao</h3>
 
 {% include figure.html img="vicshao.png" alt="headshot" width="50%" %}
 
