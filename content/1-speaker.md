@@ -15,6 +15,17 @@ Dr. Nasiri is the past chair of IEEE Industry Applications Society (IAS) Committ
 
 <br>
 
+
+<h3 style="text-align: center;">Chris Rogge</h3>
+
+{% include figure.html img="chrisr.jpg" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">Chris Rogge is a Solutions Growth Lead for EV Charging and DER at Black & Veatch. Leveraging 16 years of renewable energy experience and a lifetime of automotive enthusiasm, he evaluates and recommends technical solutions to optimize project performance and cost around client objectives.   
+<br>
+After earning a Bachelor’s Degree in Environmental Policy and Urban Planning from the University of Kansas, Chris began his energy career at Cromwell Solar in 2008, becoming one of the first NABCEP Certified PV Installation Professionals in Kansas (2009-2022).  Ending that role as Director of Solar after leading the development and execution of over 500 distributed solar and energy storage projects, he joined Black & Veatch in 2018 as Solar Technology Lead, establishing design and execution standards for a portfolio of 1,000+ rooftop solar sites owned by a Fortune 5 institution.  During the global pandemic, Chris diversified his industry background as Senior Development Engineer for SunPower’s C&I division and Senior PM for C&I Energy Storage at FlexGen, before returning to Black & Veatch in 2022 as a Clean Transportation Solutions Architect.  In his current BV role, Chris continues to advance company-wide innovation and best-practices. </p>
+
+<br>
+
 <h3 style="text-align: center;">Mark Van Wingerden</h3>
 
 {% include figure.html img="markvanw.jpg" alt="headshot" width="50%" %}
