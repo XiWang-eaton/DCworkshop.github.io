@@ -26,6 +26,14 @@ After earning a Bachelor’s Degree in Environmental Policy and Urban Planning f
 
 <br>
 
+<h3 style="text-align: center;">Rajendra Prasad Kandula</h3>
+
+{% include figure.html img="prasad.jpg" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">Rajendra Prasad Kandula (Member, IEEE) received his Ph.D. degree from Georgia Institute of Technology, Atlanta, GA, USA in 2014, in electrical engineering. He worked at a startup, Varentec, Santa Clara, as a Principal Engineer, developing power flow controllers and hybrid transformers for meshed transmission systems. He worked as a Chief Engineer at Center for Distributed Energy, Georgia Tech, Atlanta, USA, from 2015 to 2021. He is currently working as R&D Staff Scientist at Oak Ridge National Laboratory. He holds more than 15 US patents and more than 100 publications. His main research interests include applications of power electronics for utility applications such as power flow controllers, hybrid transformers, MVDC, fast EV chargers, grid-forming converters, etc.</p>
+
+<br>
+
 <h3 style="text-align: center;">Mark Van Wingerden</h3>
 
 {% include figure.html img="markvanw.jpg" alt="headshot" width="50%" %}
