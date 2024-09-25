@@ -42,6 +42,14 @@ After earning a Bachelor’s Degree in Environmental Policy and Urban Planning f
 
 <br>
 
+<h3 style="text-align: center;">Praveen Sutrave</h3>
+
+{% include figure.html img="praveen.jpg" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">Praveen Sutrave leads Meters and Relay Engineering at Eaton. He has led design and development of series of sophisticated and innovative energy meters and power quality analyzers, power distribution monitoring systems and cloud-based energy monitoring software in 20+ years at Eaton. Prior to Eaton, Praveen led the development of products for demand side energy management, industrial automation, and railway signaling and monitoring. Praveen holds patents in the area of power and energy metering. He holds Bachelor of Engineering in Electronics and Communications from Osmania University, India. </p>
+
+<br>
+
 <h3 style="text-align: center;">Victor Atlasman</h3>
 
 {% include figure.html img="vicotra.png" alt="headshot" width="50%" %}
