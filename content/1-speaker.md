@@ -26,6 +26,17 @@ After earning a Bachelor’s Degree in Environmental Policy and Urban Planning f
 
 <br>
 
+
+<h3 style="text-align: center;">Faisal Khan</h3>
+
+{% include figure.html img="faisal.jpg" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">Faisal Khan obtained his B.S., M.S., and Ph.D. degrees from Bangladesh University of Engineering and Technology (1999), Arizona State University (2003), and the University of Tennessee (2007), respectively, all in electrical engineering. He served as a senior power electronics engineer at the Electric Power Research Institute (EPRI) from 2007–2009, Assistant Professor at the University of Utah from 2009–2014, and Associate Professor at the University of Missouri, Kansas City, from 2015–2021. Since 2022, he has been NREL’s Chief Researcher in power electronics. He presently leads the power semiconductor module research at NREL. Faisal also serves as an affiliate professor at the University of Colorado, Boulder. Dr. Khan is a senior member of IEEE and an associate editor of IEEE Transactions on Power Electronics. His research area focuses on live degradation analysis of power modules and converters, smart power module design, fabrication, characterization of power converters for emerging applications. </p>
+
+<br>
+
+
+
 <h3 style="text-align: center;">Rajendra Prasad Kandula</h3>
 
 {% include figure.html img="prasad.jpg" alt="headshot" width="50%" %}
