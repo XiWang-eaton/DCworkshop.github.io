@@ -45,6 +45,16 @@ After earning a Bachelor’s Degree in Environmental Policy and Urban Planning f
 
 <br>
 
+<h3 style="text-align: center;">Robert Douglass</h3>
+
+{% include figure.html img="robert.jpg" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">Robert Douglass is Senior Chief/Principal Engineer for the Eaton Bussmann Business located in the Ellisville township of St. Louis County Missouri.  He is a 40+ year practitioner of power fuse design, research and testing for both low and medium voltage fuses, as well as significant contributions for the development of power fuse switches and over voltage surge devices.  Robert received his BSEE from the University of Southern Illinois and his MSEM from Washington University, St. Louis.</p>
+
+<br>
+
+
+
 <h3 style="text-align: center;">Mark Van Wingerden</h3>
 
 {% include figure.html img="markvanw.jpg" alt="headshot" width="50%" %}
