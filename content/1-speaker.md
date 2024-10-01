@@ -16,6 +16,16 @@ Dr. Nasiri is the past chair of IEEE Industry Applications Society (IAS) Committ
 <br>
 
 
+<h3 style="text-align: center;">Andrew Meintz</h3>
+
+{% include figure.html img="andrew.webp" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">As NREL's chief engineer for electric vehicle charging and grid integration, Andrew Meintz provides strategic oversight for the lab’s EV grid integration research, with a focus on developing and evaluating integrated systems connecting EVs, charging infrastructure, power grids, buildings, and renewable energy sources. Related activities include examining opportunities and impacts associated with a full range of charging technologies—from home-based Level 1 charging to extreme fast charging. This body of work aims to enable a more adaptive, renewable, and resilient electric grid. Before joining NREL, he served as a battery systems engineer at General Motors, where he analyzed and designed lithium-ion batteries for electric vehicles. </p>
+
+<br>
+
+
+
 <h3 style="text-align: center;">Aric Haynes</h3>
 
 {% include figure.html img="aric.jpg" alt="headshot" width="50%" %}
@@ -52,7 +62,13 @@ After earning a Bachelor’s Degree in Environmental Policy and Urban Planning f
 
 <br>
 
+<h3 style="text-align: center;">John Kisacikoglu</h3>
 
+{% include figure.html img="john.webp" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">Mithat John Kisacikoglu leads the Electric Vehicle Grid Integration team in NREL’s Center for Integrated Mobility Sciences. His research areas include power converter development for electric vehicle (EV) charging, microgrid and smart grid integration of EVs, machine-learning-supported distributed control of power electronics, and mass-scale control and integration of distributed energy systems. He has more than 15 years of multi-disciplinary professional knowledge in power electronics, transportation electrification, and smart and microgrids. </p>
+
+<br>
 
 <h3 style="text-align: center;">Rajendra Prasad Kandula</h3>
 
