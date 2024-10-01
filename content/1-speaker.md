@@ -62,6 +62,18 @@ After earning a Bachelor’s Degree in Environmental Policy and Urban Planning f
 
 <br>
 
+<h3 style="text-align: center;">Florian Schröder</h3>
+
+{% include figure.html img="florian.jpg" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">Florian Schröder is a distinguished leader and expert in product management at Eaton. With a solid academic background in Industrial Engineering, 
+Florian has been an integral part of Eaton since 2008, serving in various roles with increasing levels of responsibility. 
+Currently, Florian is the head of Product Management for command and control as well as high-performance contactors. 
+His journey with direct current (DC) technology began early in his career, particularly with the development and introduction of the P-Sol and the Firefighter's Switch.
+Since 2022, Florian has been leading Eaton's DC initiative across the EMEA region and coordinating globally, bringing his wealth of knowledge and experience to the forefront of innovation in this field. </p>
+
+<br>
+
 <h3 style="text-align: center;">John Kisacikoglu</h3>
 
 {% include figure.html img="john.webp" alt="headshot" width="50%" %}
