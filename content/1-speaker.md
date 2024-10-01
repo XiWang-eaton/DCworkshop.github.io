@@ -119,3 +119,14 @@ After earning a Bachelor’s Degree in Environmental Policy and Urban Planning f
 <p style="text-align: center;">Vic is the founder and CEO of DC Grid Inc, and has been a serial entrepreneur in cleantech over the past 15 years. Prior to DC Grid, Vic founded Amply Power in 2018 to electrify commercial and public sector fleets, which was acquired by bp in 2021. Vic went on to lead bp's electrification efforts in the U.S across trucks, buses, and rideshare until early 2024. Prior to Amply, Vic founded Green Charge Networks, an energy storage company, which was acquired by ENGIE in 2016. Vic led ENGIE's global solar + energy storage initiative prior to founding Amply. Vic has a mechanical engineering degree from the University of VIrginia and MBA from UC Berkeley. </p>
 
 <br>
+
+
+<h3 style="text-align: center;">Vijay Bhavaraju</h3>
+
+{% include figure.html img="vijay.jpg" alt="headshot" width="50%" %}
+
+<p style="text-align: center;">Vijay Bhavaraju (Senior Principal Engineer), a PhD from Texas A&M, brings decades of industrial and academic experience –32 years in the US including last 17 years with Eaton. Before Eaton, Vijay worked with Ballard Power Systems, Ford/Ecostar and Tech Power Controls. At Eaton, Vijay worked on wide variety of projects - Flow batteries, APU for hybrids, Solar and storage inverters, advanced microgrid controls, and solid state transformer for EVCI (ongoing). Vijay proposed and led several gov’t proposals in the areas of microgrids and power conversion. He championed the Eaton solar inverter designing it from grounds-up and supporting its commercialization. This led to grid-tied inverter business for Eaton. He successfully completed several gov’t programs, such as Fort Sill (Green-field microgrid), IAPS (integrated alternative power systems), and Portland General Electric’s 5MW energy storage project, which laid foundation for Eaton to actively pursue commercial opportunities in the fields of microgrids and energy storage. Vijay was selected as Eaton’s “Engineer of the year” from Eaton Research Labs in 2015. Vijay has over 20 patents and many peer reviewed publications.
+<br>
+Recently Vijay led a team and completed a microgrid for a critical infrastructure in an Army Base that met the cybersecurity standards RMF and was “Authorized To Operate”, ATO. Currently he is leading a DOE funded project developing a MV connected megawatt scale EV charging infrastructure and supporting several DOD and DOE projects as a senior technical advisor.</p>
+
+<br>
