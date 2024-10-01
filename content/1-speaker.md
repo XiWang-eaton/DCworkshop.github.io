@@ -22,10 +22,13 @@ Dr. Nasiri is the past chair of IEEE Industry Applications Society (IAS) Committ
 
 <p style="text-align: center;">Technical expert in the development and integration of power electronics for Vehicle Electronics and Architectures (VEA) group at the DEVCOM Ground Vehicle Systems Center (GVSC).  Typical duties include:
 <br>
-•	Developing electrical power system architectures to meet the needs of military ground vehicles including the Ground Vehicle Electrical Power Architecture (GVEPA), its various power electronic hardware specifications, and supporting power standards  
-•	Providing subject matter expertise to VEA Power Team customers and suppliers on all electrical power, thermal, and safety related technical matters  
-•	Developing performance specifications for advanced wide bandgap power semiconductor applications, including power inverters and converters for MIL- STD-1275 and MIL-STD-3072 power systems  
-•	Producing power system design, analysis, and detail with SysML, Matlab, Simulink, State-Flow, PLECS and Powersim
+<ul>
+  <li>Developing electrical power system architectures to meet the needs of military ground vehicles including the Ground Vehicle Electrical Power Architecture (GVEPA), its various power electronic hardware specifications, and supporting power standards</li>
+  <li>Providing subject matter expertise to VEA Power Team customers and suppliers on all electrical power, thermal, and safety related technical matters</li>
+  <li>Developing performance specifications for advanced wide bandgap power semiconductor applications, including power inverters and converters for MIL-STD-1275 and MIL-STD-3072 power systems</li>
+  <li>Producing power system design, analysis, and detail with SysML, Matlab, Simulink, State-Flow, PLECS, and Powersim</li>
+</ul>
+
 </p>
 
 <br>
