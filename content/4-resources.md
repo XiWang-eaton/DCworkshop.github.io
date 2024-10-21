@@ -5,19 +5,21 @@ nav: Resources
 
 ## Slides 
 ### Panel 1
-Obtaining speaker permission...
+[Vijay Bhavaraju - DC for Datacenter](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\vijay.pdf)  
 
 ### Panel 2
 [Aric Haynes - Army Onboard Vehicle DC Systems](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\aric.pdf)  
+[Mark van Wingerden - Onboard Power Distribution & Protection (Email for slides)](mailto:markvanwingerden@eaton.com)  
 [Gunner Sanders - Shipboard DC Architecture](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\gunner.pdf)  
 [Armen Baronian - More Electric Aircraft DC Systems](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\armen.pdf)  
 
 ### Panel 3
-[Adel Nasiri - MVSST](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\nasiri.pdf) 
-[John Kisacikoglu - High-Power Electric Vehicle Charging Hub Integration Platform (eCHIP)](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\john.pdf) 
+[Victor Atlasman - Heavy Duty EV Site Development (Email for slides)](mailto:vatlasman@wattev.com)
+[Adel Nasiri - MVSST](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\nasiri.pdf)  
+[John Kisacikoglu - High-Power Electric Vehicle Charging Hub Integration Platform (eCHIP)](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\john.pdf)  
 
 ### Panel 4
-[Praveen Sutrave - Metering for DC](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\praveen.pdf) 
+[Praveen Sutrave - Metering for DC](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\praveen.pdf)  
 
 
 
