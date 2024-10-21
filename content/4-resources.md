@@ -3,7 +3,7 @@ title: Additional Information
 nav: Resources
 ---
 
-## Slides 
+## Slides Distribution
 ### Panel 1
 [Vijay Bhavaraju - DC for Datacenter](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\vijay.pdf)  
 
@@ -14,7 +14,7 @@ nav: Resources
 [Armen Baronian - More Electric Aircraft DC Systems](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\armen.pdf)  
 
 ### Panel 3
-[Victor Atlasman - Heavy Duty EV Site Development (Email for slides)](mailto:vatlasman@wattev.com)
+[Victor Atlasman - Heavy Duty EV Site Development (Email for slides)](mailto:vatlasman@wattev.com)  
 [Adel Nasiri - MVSST](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\nasiri.pdf)  
 [John Kisacikoglu - High-Power Electric Vehicle Charging Hub Integration Platform (eCHIP)](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\john.pdf)  
 
