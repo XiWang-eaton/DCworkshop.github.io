@@ -19,6 +19,7 @@ nav: Resources
 [John Kisacikoglu - High-Power Electric Vehicle Charging Hub Integration Platform (eCHIP)](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\john.pdf)  
 
 ### Panel 4
+[Robert Douglass - Fuses for DC Protection](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\robert.pdf)  
 [Praveen Sutrave - Metering for DC](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\praveen.pdf)  
 
 
