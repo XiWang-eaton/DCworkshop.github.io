@@ -17,6 +17,7 @@ nav: Resources
 [Victor Atlasman - Heavy Duty EV Site Development (Email for slides)](mailto:vatlasman@wattev.com)  
 [Adel Nasiri - MVSST](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\nasiri.pdf)  
 [John Kisacikoglu - High-Power Electric Vehicle Charging Hub Integration Platform (eCHIP)](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\john.pdf)  
+[Chris Rogge - EV Charging Infrastructure Design](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\chris.pdf)  
 
 ### Panel 4
 [Robert Douglass - Fuses for DC Protection](https://xiwang-eaton.github.io/DCworkshop.github.io/assets\robert.pdf)  
